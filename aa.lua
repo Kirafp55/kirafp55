@@ -16,11 +16,11 @@ S1 = PornHub.com
 S2 = xvideos.com
 S3 = xnxx.com
 S4 = Brazzers.com
-x = tostring(S4)
-gg.alert(x)
 S5 = GotPorn.com
 S6 = RedTube.com
 S7 = GayTube.com
+x = tostring(S7)
+gg.alert(x)
 S8 = YouPorn.com
 S9 = NudesGay.com
  
