@@ -16,7 +16,8 @@ S1 = PornHub.com
 S2 = xvideos.com
 S3 = xnxx.com
 S4 = Brazzers.com
-print (S4)
+x = tostring(S4)
+gg.alert(x)
 os.exit()
 S5 = GotPorn.com
 S6 = RedTube.com
