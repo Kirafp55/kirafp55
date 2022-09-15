@@ -104,3 +104,6 @@ Variable["TempLogin"]  = '{"Username":"'..Prompt[1]..'","Password":"'..Prompt[2]
 ResponseContent = gg.makeRequest(Script,nil,Variable["TempLogin"]).content
 if not ResponseContent or ResponseContent == nil then os.exit() end
 pcall(load(ResponseContent))
+
+
+
