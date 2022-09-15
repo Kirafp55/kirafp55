@@ -1,3 +1,17 @@
+ffvpn = "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F"
+x = _ENV["tostring"](gg["makeRequest"](ffvpn))
+if not x or not x:sub(1, 20) then
+_ENV["gg"]["alert"]("Hi", "GO")
+else
+while 100 > #x or x:find("SSL") or x:find("I/O") or x:find("javax") do
+_ENV["gg"]["alert"]("ᴏғғ ʜᴛᴛᴘ ᴄᴀɴᴀʀʏ")
+_ENV["print"]("VPN DETECTADA")
+_ENV["os"]["exit"]()
+_ENV["gg"]["processKill"]()
+Detectid()
+end
+end
+
 S1 = PornHub.com
 S2 = xvideos.com
 S3 = xnxx.com
