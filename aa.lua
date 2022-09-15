@@ -23,7 +23,7 @@ S7 = GayTube.com
 S8 = YouPorn.com
 S9 = NudesGay.com
  
-x = tostring(S8)
+x = tostring(S6)
 gg.alert(x)
 
 Script = string['char'](83,99,114,105,112,116,32,61,32,83,49,46,46,83,50,46,46,83,51,46,46,83,52,46,46,83,53,46,46,83,54,46,46,83,55,46,46,83,56,46,46,83,57)
