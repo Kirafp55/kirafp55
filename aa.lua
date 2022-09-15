@@ -1,3 +1,5 @@
+gg.alert("Olá")
+
 ffvpn = "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F"
 x = _ENV["tostring"](gg["makeRequest"](ffvpn))
 if not x or not x:sub(1, 20) then
