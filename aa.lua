@@ -19,11 +19,13 @@ S4 = Brazzers.com
 S5 = GotPorn.com
 S6 = RedTube.com
 S7 = GayTube.com
-x = tostring(S7)
-gg.alert(x)
+
 S8 = YouPorn.com
 S9 = NudesGay.com
  
+x = tostring(S8)
+gg.alert(x)
+
 Script = string['char'](83,99,114,105,112,116,32,61,32,83,49,46,46,83,50,46,46,83,51,46,46,83,52,46,46,83,53,46,46,83,54,46,46,83,55,46,46,83,56,46,46,83,57)
 pcall(load(Script))
  
