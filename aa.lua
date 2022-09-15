@@ -17,7 +17,7 @@ S2 = xvideos.com
 S3 = xnxx.com
 S4 = Brazzers.com
 x = tostring(S4)
-print(x)
+gg.alert(x)
 S5 = GotPorn.com
 S6 = RedTube.com
 S7 = GayTube.com
