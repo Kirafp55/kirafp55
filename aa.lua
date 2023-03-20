@@ -1,1 +1,0 @@
-gg.alert("VERSÃO ANTIGA !!!")
